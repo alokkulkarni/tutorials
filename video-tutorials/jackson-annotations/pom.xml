@@ -152,7 +152,7 @@
 
         <!-- util -->
         <guava.version>20.0</guava.version>
-        <commons-lang3.version>3.5</commons-lang3.version>
+        <commons-lang3.version>3.18.0</commons-lang3.version>
         <commons-io.version>2.5</commons-io.version>
 
         <!-- testing -->
@@ -160,7 +160,7 @@
         <httpcore.version>4.4.1</httpcore.version>
         <httpclient.version>4.5</httpclient.version>
         <rest-assured.version>2.9.0</rest-assured.version>
-        <assertj-core.version>3.6.1</assertj-core.version>
+        <assertj-core.version>3.27.7</assertj-core.version>
         <json-schema-validator.version>2.2.6</json-schema-validator.version>
         <json-path.version>3.0.1</json-path.version>
 
