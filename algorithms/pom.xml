@@ -85,7 +85,7 @@
         <tradukisto.version>1.0.1</tradukisto.version>
         <io.jenetics.version>3.7.0</io.jenetics.version>
         <org.jgrapht.core.version>1.0.1</org.jgrapht.core.version>
-        <org.assertj.core.version>3.9.0</org.assertj.core.version>
+        <org.assertj.core.version>3.27.7</org.assertj.core.version>
     </properties>
 
 </project>
