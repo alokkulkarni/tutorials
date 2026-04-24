@@ -33,7 +33,7 @@
     </dependencies>
 
     <properties>
-        <org.assertj.version>3.9.0</org.assertj.version>
+        <org.assertj.version>3.27.7</org.assertj.version>
         <org.apache.opennlp.opennlp-tools.version>1.8.4</org.apache.opennlp.opennlp-tools.version>
     </properties>
 
