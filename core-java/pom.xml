@@ -450,7 +450,7 @@
         <!-- testing -->
         <org.hamcrest.version>1.3</org.hamcrest.version>
         <mockito.version>2.8.9</mockito.version>
-        <assertj.version>3.6.1</assertj.version>
+        <assertj.version>3.27.7</assertj.version>
 
         <!-- maven plugins -->
         <maven-compiler-plugin.version>3.7.0</maven-compiler-plugin.version>
