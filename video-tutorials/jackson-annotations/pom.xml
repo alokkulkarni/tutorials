@@ -142,7 +142,7 @@
         <mysql-connector-java.version>5.1.38</mysql-connector-java.version>
 
         <!-- marshalling -->
-        <jackson.version>2.8.5</jackson.version>
+        <jackson.version>2.12.7.1</jackson.version>
 
         <!-- various -->
         <hibernate-validator.version>5.1.3.Final</hibernate-validator.version>
@@ -160,7 +160,7 @@
         <httpcore.version>4.4.1</httpcore.version>
         <httpclient.version>4.5</httpclient.version>
         <rest-assured.version>2.9.0</rest-assured.version>
-        <assertj-core.version>3.6.1</assertj-core.version>
+        <assertj-core.version>3.27.7</assertj-core.version>
         <json-schema-validator.version>2.2.6</json-schema-validator.version>
         <json-path.version>3.0.1</json-path.version>
 

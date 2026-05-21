@@ -126,7 +126,7 @@
 
 	<properties>
 		<!-- Spring -->
-		<spring.version>4.3.4.RELEASE</spring.version>
+		<spring.version>6.2.18</spring.version>
 
 
 		<!-- testing -->
