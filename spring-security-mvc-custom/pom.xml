@@ -193,8 +193,8 @@
 
 	<properties>
 		<!-- Spring -->
-		<spring.version>4.3.4.RELEASE</spring.version>
-		<org.springframework.security.version>4.2.0.RELEASE</org.springframework.security.version>
+		<spring.version>6.2.18</spring.version>
+		<org.springframework.security.version>6.5.9</org.springframework.security.version>
 
 		<!-- persistence -->
 		<hibernate.version>5.2.5.Final</hibernate.version>
@@ -208,7 +208,7 @@
 		<!-- util -->
 		<guava.version>19.0</guava.version>
 		<commons-lang3.version>3.5</commons-lang3.version>
-		<jackson-databind.version>2.9.1</jackson-databind.version>
+		<jackson-databind.version>2.12.7.1</jackson-databind.version>
 
 		<httpclient.version>4.5.2</httpclient.version>
 		<httpcore.version>4.4.5</httpcore.version>

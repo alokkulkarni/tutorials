@@ -174,9 +174,9 @@
     </build>
 
     <properties>
-        <springframework.version>4.3.8.RELEASE</springframework.version>
-        <springsecurity.version>4.2.3.RELEASE</springsecurity.version>
-        <jackson.version>2.8.7</jackson.version>
+        <springframework.version>6.2.18</springframework.version>
+        <springsecurity.version>6.5.9</springsecurity.version>
+        <jackson.version>2.12.7.1</jackson.version>
         <slf4j.version>1.7.25</slf4j.version>
         <hibernate-core.version>5.2.10.Final</hibernate-core.version>
         <spring-data-jpa.version>1.11.3.RELEASE</spring-data-jpa.version>
